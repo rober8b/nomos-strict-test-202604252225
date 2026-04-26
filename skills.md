@@ -1,0 +1,5 @@
+﻿- typescript
+- api_design
+- code_review
+- documentation
+- testing
