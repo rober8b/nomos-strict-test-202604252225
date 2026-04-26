@@ -1,0 +1,7 @@
+﻿{
+  "default_tier": "complex",
+  "avg_tokens_per_task": { "simple": 350, "moderate": 1100, "complex": 2700 },
+  "tasks_completed": 87,
+  "tasks_attempted": 95,
+  "success_rate": 0.916
+}
